@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/totemkevin/web_scanner/issues"
   },
-  "homepage": "https://github.com/totemkevin/web_scanner#readme"
+  "homepage": "https://github.com/totemkevin/web_scanner#readme",
+  "dependencies": {
+    "instascan": "^1.0.0"
+  }
 }
